@@ -4,4 +4,8 @@
 
 > __Übersicht__:
 
+ - Java:
+   - Design:
+     - Konventionen: [hier](java/design/konventionen/README.md)
+
 Coming soon...
