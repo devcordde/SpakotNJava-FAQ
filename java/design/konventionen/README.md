@@ -3,9 +3,9 @@
 
 > __Übersicht__:
 
-- Packages: [hier](../blob/master/java/design/konventionen/packages/Packages.md)
-- Klassen: [hier](../blob/master/java/design/konventionen/klassen/Klassen.md)
-- Variablen: [hier](../blob/master/java/design/konventionen/variablen/Variablen.md)
-- Methoden: [hier](../blob/master/java/design/konventionen/methoden/Methoden.md)
+- Packages: [hier](packages/Packages.md)
+- Klassen: [hier](klassen/Klassen.md)
+- Variablen: [hier](variablen/Variablen.md)
+- Methoden: [hier](methoden/Methoden.md)
 
-> Zurück: [hier](../blob/master/README.md)
+> Zurück: [hier](../../../README.md)
