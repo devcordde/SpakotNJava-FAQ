@@ -4,3 +4,4 @@
 - Konstanten (`final` Modifier, oder Enums) werden **GROSS**geschrieben und **_** für die Wörterteilung benutzt.
 - Es wird empfohlen Variablen so wenig wie möglich `public` zu machen, Nutzung von Getter/Setter ist zu empfehlen.
 - Konstanten können `public` gemacht werden.
+> Zurück: [hier](../README.md)
