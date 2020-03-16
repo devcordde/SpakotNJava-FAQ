@@ -1,2 +1,7 @@
-# spakot
-FaQ about Minceaft related software (Spigot, Bungeecord, FML, Sponge) Maintained by @Amejonah1200
+ SpakotNJava-FaQ : Eine Welt, mehrere Dimensionen.
+ ------------------------
+<br>
+
+> __Übersicht__:
+
+Coming soon...
