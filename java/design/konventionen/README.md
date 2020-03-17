@@ -1,5 +1,6 @@
 # Java Konventionen
------------
+
+Hauptregel: Immer so nennen dass man anhand des Namen um was es geht, Abkürzungen vermeiden.
 
 > __Übersicht__:
 
