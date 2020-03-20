@@ -7,7 +7,7 @@
  - Java:
    - Design:
      - Konventionen: [hier](java/design/konventionen/README.md)
-   - Exceptions(Fehler) FaQ: 
+   - Exceptions(Fehler) FaQ: [hier](java/fehler/README.md)
    
 
 Coming soon...
