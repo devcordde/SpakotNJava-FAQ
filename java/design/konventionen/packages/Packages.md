@@ -1,5 +1,6 @@
 > __Packages__: 
-- immer in **klein**, und **_** vermeinden!
+- Immer in **klein**, und **_** vermeinden!
+- `main` Package ist redundant für die Main Klasse (diese Klasse nicht `Main` nennen, siehe Klassekonventionen), die kommt im Root-Package.
 - Formatierung beim Root-Package:
 <br>  -> Allgemein: `tld.meinewebsite.meinprojekt`  : 
 <br>  -> Private Leute die keine eigene Domain/Website haben: `me.meinname.meinprojekt` (lieber github benutzen wenn möglich)
