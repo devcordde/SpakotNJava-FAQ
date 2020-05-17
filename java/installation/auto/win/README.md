@@ -12,7 +12,7 @@
 - Nachdem die Installation zu Ende ist, öffnet ihr die Eingabeaufforderung/Terminal/Konsole/Cmd ([Win+R] -> `cmd` -> Ausführen)<br>
 ![Ausführen](Ausführen.png "Alle auswählen.")
 - Führt `java -version` aus, wenn alles geglückt ist sollten sie die Version ihrer Installation sehen.<br>
-![Konsole](../Konsole.png "Alle auswählen.")
+![Konsole](../../Konsole.png "Alle auswählen.")
 - Fertig.
 
 > Zurück: [hier](../README.md)
