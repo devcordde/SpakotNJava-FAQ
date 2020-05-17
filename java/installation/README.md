@@ -4,7 +4,7 @@ Java zu installieren ist nicht schwer, es gibt eine automatische Version (empfoh
 Wenn die automatische Installation fehl schlägt, nützt dann die manuelle.<br><br>
 
 > __Automatische oder manuelle Installation?__:
-- Automatisch: [hier](auto/Installation.md)
+- Automatisch: [Windows](auto/win/README.md)
 - Manuell: 
 
 
