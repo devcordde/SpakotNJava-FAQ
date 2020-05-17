@@ -8,4 +8,4 @@ Wenn die automatische Installation fehl schlägt, nützt dann die manuelle.<br><
 - Manuell: 
 
 
-> Zurück: [hier](README.md)
+> Zurück: [hier](../../README.md)
