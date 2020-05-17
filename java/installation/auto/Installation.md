@@ -10,4 +10,4 @@
 - Führt `java -version` aus, wenn alles geglückt ist sollten sie die Version ihrer Installation sehen.
 - Fertig.
 
-> Zurück: [hier](installation/README.md)
+> Zurück: [hier](../README.md)
