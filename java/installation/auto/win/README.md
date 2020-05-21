@@ -7,6 +7,8 @@
 - Akzeptiert die Lizenzvereinbahrung.
 - Unter `Benutzerdefiniertes Setup`, wählt ihr jedes Modul das mit einem X versehen ist und stellt es auf `Wird auf der lokalen Festplatte installiert`.<br>
 ![Setup Installation](InstallierenSetup.png "Alle auswählen.")
+- Es sollte dann so aussehen:<br>
+![Setup Alles](SetupAlles.png "Alles ausgewählt.")
 - Drückt auf `Weiter` sowie auf `Installieren`.<br>
 ![Installation](Installieren.png "Alle auswählen.")
 - Nachdem die Installation zu Ende ist, öffnet ihr die Eingabeaufforderung/Terminal/Konsole/Cmd ([Win+R] -> `cmd` -> Ausführen)<br>
