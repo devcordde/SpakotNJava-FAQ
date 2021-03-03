@@ -1,4 +1,4 @@
- SpakotNJava-FaQ : Eine Welt, mehrere Dimensionen.
+ SpakotNJava-FaQ: Eine Welt, mehrere Dimensionen.
  ------------------------
 <br>
 
@@ -7,5 +7,3 @@
  - Java:
    - Design:
      - Konventionen: [hier](java/design/konventionen/README.md)
-
-Coming soon...
