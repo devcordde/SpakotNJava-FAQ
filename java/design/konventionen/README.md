@@ -1,6 +1,7 @@
 # Java Konventionen
 
-Hauptregel: Durch den Namen einer Variable, Klasse, etc. sollte klar erkennbar sein, worum es geht. Abkürzungen sollten vermieden werden. 
+Hauptregel 1: Durch den Namen einer Variable, Klasse, etc. sollte klar erkennbar sein, worum es geht. Abkürzungen sollten vermieden werden.
+Hauptregel 2: Englisch! Jeder Kommentar, jede Klasse, jede Variable, jeder Git commit und was es sonst alles noch zum schreiben gibt. Englisch! Und auch kein Denglisch. Englisch, Englisch, Englisch!
 <br><br>
 **Wieso solltest du dich an die Java Konventionen halten?**:<br>
 Nehmen wir mal an, einer der die Konventionen nicht einhalten möchte schreibt:
