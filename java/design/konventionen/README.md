@@ -1,21 +1,22 @@
 # Java Konventionen
 
-Hauptregel: Immer so nennen dass man anhand des Namen weiß worum es geht, Abkürzungen vermeiden.
+Hauptregel 1: Durch den Namen einer Variable, Klasse, etc. sollte klar erkennbar sein, worum es geht. Abkürzungen sollten vermieden werden.
+Hauptregel 2: Englisch! Jeder Kommentar, jede Klasse, jede Variable, jeder Git commit und was es sonst alles noch zum schreiben gibt. Englisch! Und auch kein Denglisch. Englisch, Englisch, Englisch!
 <br><br>
-**Wieso die einhalten?**:<br>
-Nehmen wir mal an, einer der die Konventionen nicht einhalten möchte schreibt sowas:
+**Wieso solltest du dich an die Java Konventionen halten?**:<br>
+Nehmen wir mal an, einer der die Konventionen nicht einhalten möchte schreibt:
 `me.EinKek.BeispielPlugin.MeinPlugin.Spieler`<br>
 Was ist was hier jetzt?<br>
-Vieleicht ist das Package `me.EinKek.BeispielPlugin` , und `MeinPlugin` ist eine Klasse und `Spieler` ist auch eine (nested Class).<br>
-Oder das Package ist `me.EinKek.BeispielPlugin`, und `MeinPlugin` ist eine Klasse und `Spieler` ist eine public static Variable?<br>
-Oder das Package ist `me.EinKek` und `BeispielPlugin` ist eine Klasse wo dort die Klasse `MeinPlugin` ist, und dort ist die Variable `Spieler`?<br>
-Diese Konventionen halten die Struktur in Übersicht damit man sich ohne explizite Anzeige weiß was was ist.<br><br>
+Vielleicht ist das Package `me.EinKek.BeispielPlugin`, und `MeinPlugin` ist eine Klasse und `Spieler` ist eine nested Class.<br>
+Oder das Package ist `me.EinKek.BeispielPlugin`, `MeinPlugin` ist eine Klasse und `Spieler` ist eine static Variable?<br>
+Oder das Package ist `me.EinKek` und `BeispielPlugin` ist eine Klasse, wo dort die Klasse `MeinPlugin` ist, und dort ist die Variable `Spieler`?<br>
+Die Konventionen strukturieren dein Projekt und helfen anderen Entwicklern sich einfacher in deinen Code einzuarbeiten.<br><br>
 
 > __Übersicht einiger dieser Konventionen__:
 
 - Packages: [hier](packages/Packages.md)
-- Klassen: [hier](klassen/Klassen.md)
-- Variablen: [hier](variablen/Variablen.md)
-- Methoden: [hier](methoden/Methoden.md)
+- Klassen: [hier](klassen/Classes.md)
+- Variablen: [hier](variablen/Variables.md)
+- Methoden: [hier](methoden/Methods.md)
 
 > Zurück: [hier](../../../README.md)
