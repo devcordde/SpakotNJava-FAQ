@@ -15,8 +15,8 @@ Die Konventionen strukturieren dein Projekt und helfen anderen Entwicklern sich 
 > __Übersicht einiger dieser Konventionen__:
 
 - Packages: [hier](packages/Packages.md)
-- Klassen: [hier](klassen/Classes.md)
-- Variablen: [hier](variablen/Variables.md)
-- Methoden: [hier](methoden/Methods.md)
+- Klassen: [hier](classes/Classes.md)
+- Variablen: [hier](variables/Variables.md)
+- Methoden: [hier](methods/Methods.md)
 
 > Zurück: [hier](../../../README.md)

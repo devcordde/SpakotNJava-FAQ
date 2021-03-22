@@ -6,4 +6,4 @@
 
  - Java:
    - Design:
-     - Konventionen: [hier](java/design/konventionen/README.md)
+     - Konventionen: [hier](java/design/conventions/README.md)
